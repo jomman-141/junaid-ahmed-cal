@@ -1,0 +1,12 @@
+{
+  "name": "junaid-ahmed-cal",
+  "version": "1.0.0",
+  "description": "you can find here all calculator functions",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["calculator"],
+  "author": "",
+  "license": "ISC"
+}
